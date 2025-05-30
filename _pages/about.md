@@ -22,7 +22,7 @@ I am a PhD candidate in the [Department of History and Philosophy of Science](ht
 
 In addition to my PhD, I also serve as a Student Fellow at the [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk).
 
-In Fall 2025, I will be a Postdoctoral Associate in the Philosophy and Ethics of Artificial Intelligence at the University of Florida supervised by Professor Cameron Buckner. 
+In Fall 2025, I will be a Postdoctoral Associate in the Philosophy and Ethics of Artificial Intelligence in the [Department of Philosophy](https://phil.ufl.edu/) at the University of Florida supervised by [Professor Cameron Buckner](http://cameronbuckner.net/). 
 
 I mainly work on the history and philosophy of artificial intelligence. I am interested in the epistemic, moral, and political significance of machine learning in science and public life. My dissertation develops a pragmatist epistemology of AI in science. I also have projects in the philosophy of cognitive neuroscience, general philosophy of science, epistemology, and social-political philosophy, especially where these areas intersect with aspects of machine learning. 
 

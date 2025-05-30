@@ -5,7 +5,7 @@ permalink: /projects/
 description: My primary research interests concern the philosophy of machine learning and its intersections with general philosophy of science, ethics and public policy, cognitive science, and philosophy of neuroscience. I am also interested in social and political philosophy, American pragmatism, and feminist philosophy.
 
   Click below to explore my ongoing projects and papers in progress. 
-nav: true
+nav: false
 nav_order: 2
 display_categories: [projects, papers]
 horizontal: false
