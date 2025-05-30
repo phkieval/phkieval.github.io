@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href = "">Philosopher of Science.</a> University of Cambridge.
+subtitle: <a href = "">Philosopher of AI.</a> University of Cambridge.
 
 profile:
   align: right
@@ -18,16 +18,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the [Department of History and Philosophy of Science](https://www.hps.cam.ac.uk) at the University of Cambridge where I am generously funded by the [Gates Cambridge Scholarship](https://www.gatescambridge.org/biography/18408/).
+I am a PhD candidate in the [Department of History and Philosophy of Science](https://www.hps.cam.ac.uk) at the University of Cambridge where I am generously funded by the [Gates Cambridge Scholarship](https://www.gatescambridge.org/biography/18408/).
 
 In addition to my PhD, I also serve as a Student Fellow at the [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk).
 
-I work on the history and philosophy of machine learning and applied statistics in science and public life. My dissertation develops a pragmatist epistemology of deep learning in scientific practice. I emphasize the theoretical foundations of statistical learning as a source of pragmatic understanding, which involves empirically tested methods of engineering models that facilitate reliable prediction and control. This approach leads me to consider conceptual issues with prominent validation methods, including cross-validation, calibration, and uncertainty estimation, contrasting these contemporary practices with parallels in the history of scientific instruments..
+In Fall 2025, I will be a Postdoctoral Associate in the Philosophy and Ethics of Artificial Intelligence at the University of Florida supervised by Professor Cameron Buckner. 
 
-<!-- My current research broadly concerns the epistemic, moral, and political significance of machine learning in science and public life. Tackling these issues leads me to confront fundamental questions concerning the role non-epistemic values in science and technology, the relationship between various conceptions of objectivity and trust, and the nature and importance of uncertainty estimates for responsibility. 
+I mainly work on the history and philosophy of artificial intelligence. I am interested in the epistemic, moral, and political significance of machine learning in science and public life. My dissertation develops a pragmatist epistemology of AI in science. I also have projects in the philosophy of cognitive neuroscience, general philosophy of science, epistemology, and social-political philosophy, especially where these areas intersect with aspects of machine learning. 
+
+<!--My dissertation develops a pragmatist epistemology of deep learning in scientific practice. I emphasize the theoretical foundations of statistical learning as a source of pragmatic understanding, which involves empirically tested methods of engineering models that facilitate reliable prediction and control. This approach leads me to consider conceptual issues with prominent validation methods, including cross-validation, calibration, and uncertainty estimation, contrasting these contemporary practices with parallels in the history of scientific instruments..
+
+ My current research broadly concerns the epistemic, moral, and political significance of machine learning in science and public life. Tackling these issues leads me to confront fundamental questions concerning the role non-epistemic values in science and technology, the relationship between various conceptions of objectivity and trust, and the nature and importance of uncertainty estimates for responsibility. 
  -->
 
-I also have other projects in the philosophy of cognitive neuroscience, artificial intelligence, general philosophy of science, general epistemology, and social-political philosophy, especially where these areas intersect with aspects of machine learning. 
+
 
 Before Cambridge I was a student at the University of Houston where I earned my BA and MA in Philosophy.
 
