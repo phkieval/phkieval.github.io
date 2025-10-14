@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href = "">Philosopher of AI.</a> University of Cambridge.
+subtitle: <a href = "">Philosopher of AI.</a> University of Florida.
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Postdoctoral Associate in the Philosophy and Ethics of Artificial Intelligence in the [Department of Philosophy](https://phil.ufl.edu/) at the University of Florida supervised by [Professor Cameron Buckner](http://cameronbuckner.net/). 
 
-I work on the history and philosophy of artificial intelligence. I am especially interested in the epistemic, moral, and political significance of machine learning in science and public life. I also have projects in the philosophy of cognitive science, general philosophy of science, epistemology, and social-political philosophy, especially where these areas intersect with aspects of machine learning.
+I work on the history and philosophy of artificial intelligence. My work analyzes how deep learning architectures place interpretable constraints on representation learning, and the relationship between these constraints and inductive reliability. I also have projects in the philosophy of cognitive science, general philosophy of science, epistemology, and social-political philosophy, especially where these areas intersect with aspects of machine learning.
 
 Before UF, I did my PhD in the [Department of History and Philosophy of Science](https://www.hps.cam.ac.uk) at the University of Cambridge where I was a [Gates Cambridge Scholar](https://www.gatescambridge.org/).
 
