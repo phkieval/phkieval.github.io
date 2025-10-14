@@ -18,13 +18,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in the [Department of History and Philosophy of Science](https://www.hps.cam.ac.uk) at the University of Cambridge where I am generously funded by the [Gates Cambridge Scholarship](https://www.gatescambridge.org/biography/18408/).
+I am a Postdoctoral Associate in the Philosophy and Ethics of Artificial Intelligence in the [Department of Philosophy](https://phil.ufl.edu/) at the University of Florida supervised by [Professor Cameron Buckner](http://cameronbuckner.net/). 
 
-In addition to my PhD, I also serve as a Student Fellow at the [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk).
+I work on the history and philosophy of artificial intelligence. I am especially interested in the epistemic, moral, and political significance of machine learning in science and public life. I also have projects in the philosophy of cognitive science, general philosophy of science, epistemology, and social-political philosophy, especially where these areas intersect with aspects of machine learning.
 
-In Fall 2025, I will be a Postdoctoral Associate in the Philosophy and Ethics of Artificial Intelligence in the [Department of Philosophy](https://phil.ufl.edu/) at the University of Florida supervised by [Professor Cameron Buckner](http://cameronbuckner.net/). 
+Before UF, I did my PhD in the [Department of History and Philosophy of Science](https://www.hps.cam.ac.uk) at the University of Cambridge where I was a [Gates Cambridge Scholar](https://www.gatescambridge.org/).
 
-I work on the history and philosophy of artificial intelligence. I am especially interested in the epistemic, moral, and political significance of machine learning in science and public life. I also have projects in the philosophy of cognitive science, general philosophy of science, epistemology, and social-political philosophy, especially where these areas intersect with aspects of machine learning. 
+In addition to my PhD, I also served as a Student Fellow at the [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk).
+
+
+
+ 
 
 <!--My dissertation develops a pragmatist epistemology of deep learning in scientific practice. I emphasize the theoretical foundations of statistical learning as a source of pragmatic understanding, which involves empirically tested methods of engineering models that facilitate reliable prediction and control. This approach leads me to consider conceptual issues with prominent validation methods, including cross-validation, calibration, and uncertainty estimation, contrasting these contemporary practices with parallels in the history of scientific instruments..
 
