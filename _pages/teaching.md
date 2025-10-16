@@ -6,9 +6,11 @@ description: Philosophy teaches valuable lessons in argument formation, respectf
 
     As a course supervisor at the University of Cambridge, I am responsible for organizing undergraduate students into small groups for seminar style discussion. For each group, I assign readings and essay topics each week, provide detailed comments, and facilitate discussion. I have several terms of experience teaching the following courses.
 
-nav: true
+nav: false
 nav_order: 4
 ---
+
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
         
