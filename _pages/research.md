@@ -9,7 +9,7 @@ nav_order: 2
 
 [Research Statement](http://phkieval.com/assets/pdf/Research_Statement.pdf)
 
-<p>Representation Learning without Representationalism (forthcoming)
+<p><strong>Representation Learning without Representationalism (forthcoming)</strong>
 
 <p>
   <button class="btn " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
@@ -26,7 +26,7 @@ nav_order: 2
 <p>
 
 
-The Measure of a Manifold (under review)  
+<strong>The Measure of a Manifold (under review)  </strong>
 
  <p> <button class="btn " type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
  Abstract
@@ -39,7 +39,7 @@ The Measure of a Manifold (under review)
 </div>
 <p>
 
-Neural Scaling Laws and Science Without Theory (under review)
+<strong>Neural Scaling Laws and Science Without Theory (under review)</strong>
 
 <p>  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
  Abstract
@@ -53,7 +53,7 @@ Neural Scaling Laws and Science Without Theory (under review)
 <p>
 
 
-Deep Learning as Method-Learning (w/ Oscar Westeblad) (in preparation)
+<strong>Deep Learning as Method-Learning (w/ Oscar Westeblad) (in preparation)</strong>
 
 <p>  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
  Abstract
@@ -68,7 +68,7 @@ of AlphaFold2, highlighting the interplay between background knowledge of a prob
 <p>
 
 
-Artificial Empathy, Social Affordances, and Moral Development (w/ Cameron Buckner) (in preparation)
+<strong>Artificial Empathy, Social Affordances, and Moral Development (w/ Cameron Buckner) (in preparation)</strong>
 
 <p>  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
  Abstract
@@ -82,7 +82,7 @@ Private firms are flooding the market with conversational AI agents based on lar
 <p>
 
 
-Formal Anlogies and Model Transfer in Scientific Deep Learning (in preparation)
+<strong>Formal Anlogies and Model Transfer in Scientific Deep Learning (in preparation)</strong>
 
 <p>  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
  Abstract
@@ -96,7 +96,7 @@ In this paper, I examine the trans-disciplinary successes of deep learning, and 
 <p>
 
 
-Modeling Cognition with Goal-Directed Neural Networks (in preparation)
+<strong>Modeling Cognition with Goal-Directed Neural Networks (in preparation)</strong>
 
 <p>  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
  Abstract
@@ -109,8 +109,8 @@ A popular approach to studying cognition involves using artificial neural networ
 </div>
 <p>
 
-Symmetries as Non-Causal Constraints for Learning Cuasal Models (in draft)
+<strong>Symmetries as Non-Causal Constraints for Learning Cuasal Models (in draft)</strong>
 <p>
 
 
-How neural dynamics compute (in draft)
+<strong>How neural dynamics compute (in draft)</strong>
