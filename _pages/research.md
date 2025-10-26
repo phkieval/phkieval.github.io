@@ -2,9 +2,9 @@
 layout: page
 permalink: /research/
 title: research
+description: Works in progress
 nav: true
 nav_order: 2
-
 ---
 
 Representation Learning without Representationalism (forthcoming)
@@ -54,7 +54,7 @@ Deep Learning as Method-Learning (w/ Oscar Westeblad) (in preparation)
  Abstract
   </button>
 </p>
-<div class="collapse" id="collaps5">
+<div class="collapse" id="collapse5">
   <div class="card card-body">
 We claim that scientists working with deep learning (DL) models exhibit a form of pragmatic understanding that is not reducible to or dependent on explanation. This pragmatic understanding comprises a set of learned methodological principles that underlie DL model design-choices and secure their reliability. We illustrate this action-oriented pragmatic understanding with a case study
 of AlphaFold2, highlighting the interplay between background knowledge of a problem and methodological choices involving techniques for constraining how a model learns from data. Building successful models requires pragmatic understanding to apply modelling strategies that encourage the model to learn data patterns that will facilitate reliable generalisation.
@@ -67,7 +67,7 @@ Artificial Empathy, Social Affordances, and Moral Development (w/ Cameron Buckne
  Abstract
   </button>
 </p>
-<div class="collapse" id="collaps6">
+<div class="collapse" id="collapse6">
   <div class="card card-body">
 Private firms are flooding the market with conversational AI agents based on large language models (LLMs). Efforts are already underway to train these chatbots to be more socially satisfying by endowing them with more empatheic responses to user prompts. In this paper, we argue that despite the apparently impressibe improvement in emotional identification by recent chatbots, the prevailing approaches to artifical empathy in LLMs suffer from a spectatorial conception of social cognition which is unlikely to lead to thicker and extended interactions that promote user well-being. Our perspective aims to redefine the agenda for research on artificial empathy in AI agents by emphasize the role of affective cognitions as affording opportunities for mutual social calibration and moral development. 
   </div>
@@ -79,7 +79,7 @@ Formal Anlogies and Model Transfer in Scientific Deep Learning (in preparation)
  Abstract
   </button>
 </p>
-<div class="collapse" id="collaps7">
+<div class="collapse" id="collapse7">
   <div class="card card-body">
 In this paper, I examine the trans-disciplinary successes of deep learning, and I argue that attention to how deep learning architectures travel between fields reveals a distinctive form of interdisciplinary model transfer. Model transfer refers to the practice of applying a model that originates in one scientific domain to do novel epistemic work in a different domain.  Many historical cases of such cross-pollination have brought philosophical interest to the role of ``templates'' in model-building. A model template refers to a mathematical structure or computational method whose accompanying conceptual resources can be used to illuminate observed patterns in different kinds of systems \citep{Knuuttila2016}. Analogies between patterns observed in different kinds of systems warrant adopting the same model templates in different scientific domains. I argue that when it comes to deep learning, purely formal analogies mediate such model transfers. These analogies hold between qualitative patterns that modellers expect to find in the structure of very different kinds of data given their background knowledge of a scientific problem. I argue that the formal analogies that motivate deep learning model transfers target structural features of the data themselves. Understanding how these formal analogies contrast with existing philosophical accounts of analogies in science thus requires examining how modellers work with conceptualisations of generic patterns or signatures associated with specific machine-readable data structures. 
   </div>
@@ -91,7 +91,7 @@ Modeling Cognition with Goal-Directed Neural Networks (in preparation)
  Abstract
   </button>
 </p>
-<div class="collapse" id="collaps8">
+<div class="collapse" id="collapse8">
   <div class="card card-body">
 A popular approach to studying cognition involves using artificial neural networks as surrogate models of the mechanisms that drive flexible and adaptive behaviour, such as learning, memory, perception, and language use. Mounting empirical evidence from computational cognitive neuroscience suggests that deep neural networks (DNNs) are useful tools for learning about regions of interest in the brain. For example, studies reveal that deep convolutional neural networks (or ConvNets) trained to solve object recognition tasks acquire internal representations that closely resemble processes in the primate ventral visual stream. Evidence for this correspondence came as a surprise because these models were not designed based on explicit neurobiological constraints. Instead, they are "goal-directed" models optimised to solve engineering tasks like image classification. Many now claim that goal-directed DNNs are the best models human cognitive faculties like visual object recognition and language processing. Recent critics claim that goal-directed DNNs fail to adequately explain cognitive processes. Such critiques tend to emphasise that (i) DNN models fail to replicate well-documented empirical findings reported in psychology and (ii) important aspects of DNNs lack biological plausibility and are thus not sufficiently similar to their target neural mechanisms. In this paper, I argue that these criticisms are misplaced, stemming from a lack of clarity about the explanatory targets of neural network models and an overly simplistic conception of model-based explanation. I examine a method of assessing the correspondence between goal-directed models and neural processing called representational similarity analysis (RSA). I argue that RSA functions in practice as a tool for identifying the higher-order organisations of distributed representational states in both neural network models and their target systems. In doing so, neuroscientists use it as a defeasible guide to identifying generic information processing mechanisms that can be instantiated in different kinds of systems. By showing that DNNs and cortical circuits in the brain process information using similarly organised representations, neuroscientists gain some assurance that goal-direct DNNs can be used to draw surrogative inferences about the mechanisms underlying information processing in regions of interest in the brain. 
 </div>
