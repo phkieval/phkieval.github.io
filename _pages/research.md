@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: Works in progress
+title: work in progress
+description: 
 nav: true
 nav_order: 2
 ---
+
+[Research Statement](assets/pdf/Research_Statement)
 
 Representation Learning without Representationalism (forthcoming)
 
@@ -104,10 +106,9 @@ Modeling Cognition with Goal-Directed Neural Networks (in preparation)
   <div class="card card-body">
 A popular approach to studying cognition involves using artificial neural networks as surrogate models of the mechanisms that drive flexible and adaptive behaviour, such as learning, memory, perception, and language use. Mounting empirical evidence from computational cognitive neuroscience suggests that deep neural networks (DNNs) are useful tools for learning about regions of interest in the brain. For example, studies reveal that deep convolutional neural networks (or ConvNets) trained to solve object recognition tasks acquire internal representations that closely resemble processes in the primate ventral visual stream. Evidence for this correspondence came as a surprise because these models were not designed based on explicit neurobiological constraints. Instead, they are "goal-directed" models optimised to solve engineering tasks like image classification. Many now claim that goal-directed DNNs are the best models human cognitive faculties like visual object recognition and language processing. Recent critics claim that goal-directed DNNs fail to adequately explain cognitive processes. Such critiques tend to emphasise that (i) DNN models fail to replicate well-documented empirical findings reported in psychology and (ii) important aspects of DNNs lack biological plausibility and are thus not sufficiently similar to their target neural mechanisms. In this paper, I argue that these criticisms are misplaced, stemming from a lack of clarity about the explanatory targets of neural network models and an overly simplistic conception of model-based explanation. I examine a method of assessing the correspondence between goal-directed models and neural processing called representational similarity analysis (RSA). I argue that RSA functions in practice as a tool for identifying the higher-order organisations of distributed representational states in both neural network models and their target systems. In doing so, neuroscientists use it as a defeasible guide to identifying generic information processing mechanisms that can be instantiated in different kinds of systems. By showing that DNNs and cortical circuits in the brain process information using similarly organised representations, neuroscientists gain some assurance that goal-direct DNNs can be used to draw surrogative inferences about the mechanisms underlying information processing in regions of interest in the brain. 
 </div>
+</div>
 <p>
 
-
-<p>
 Symmetries as Non-Causal Constraints for Learning Cuasal Models (in draft)
 <p>
 
