@@ -9,7 +9,7 @@ nav_order: 2
 
 [Research Statement](phkieval.com/assets/pdf/Research_Statement.pdf)
 
-Representation Learning without Representationalism (forthcoming)
+<p>Representation Learning without Representationalism (forthcoming)
 
 <p>
   <button class="btn " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
