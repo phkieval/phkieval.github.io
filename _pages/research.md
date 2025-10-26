@@ -7,8 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-[Research Statement](assets/pdf/Research_Statement)
-
+[Research Statement](phkieval.com/assets/pdf/Research_Statement.pdf)
+s
 Representation Learning without Representationalism (forthcoming)
 
 <p>
