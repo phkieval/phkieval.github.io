@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 [Research Statement](phkieval.com/assets/pdf/Research_Statement.pdf)
-s
+
 Representation Learning without Representationalism (forthcoming)
 
 <p>
@@ -53,7 +53,7 @@ Neural Scaling Laws and Science Without Theory (under review)
 <p>
 
 
-[Deep Learning as Method-Learning](https://philsci-archive.pitt.edu/23489/) (w/ Oscar Westeblad) (in preparation)
+Deep Learning as Method-Learning (w/ Oscar Westeblad) (in preparation)
 
 <p>  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
  Abstract
