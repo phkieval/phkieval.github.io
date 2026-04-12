@@ -98,7 +98,7 @@ Private firms are flooding the market with conversational AI agents based on lar
 <p>
 
 
-<strong>Formal Anlogies and Model Transfer in Scientific Deep Learning (in preparation)</strong>
+<strong>Formal Anlogies and Model Transfer in Scientific Deep Learning (under review)</strong>
 
 <p>  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
  Abstract
@@ -125,8 +125,8 @@ A popular approach to studying cognition involves using artificial neural networ
 </div>
 <p>
 
-<strong>Symmetries as Non-Causal Constraints for Learning Cuasal Models (in draft)</strong>
+<!-- <strong>Symmetries as Non-Causal Constraints for Learning Cuasal Models (in draft)</strong>
 <p>
 
 
-<strong>How neural dynamics compute (in draft)</strong>
+<strong>How neural dynamics compute (in draft)</strong> -->
