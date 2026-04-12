@@ -9,7 +9,23 @@ nav_order: 2
 
 [Research Statement](http://phkieval.com/assets/pdf/Research_Statement.pdf)
 
-<p><strong>Representation Learning without Representationalism (forthcoming)</strong>
+<p><strong>Rationalization in Large Reasoning Models</strong>
+
+<p>
+  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+ Abstract
+  </button>
+</p>
+
+<div class="collapse" id="collapse1">
+  <div class="card card-body">
+   New “reasoning” LLMs have demonstrated impressive performance gains, accounting for many of the latest breakthroughs on complex, multi-step inferential tasks like mathematics and computer programming. These models are trained with verifiable outcome-based reinforcement learning to adaptively self-generate “chains-of-thought” (CoTs), or series intermediary inferential steps, which appear to scaffold complex reasoning. In addition to performance gains, monitoring CoTs shows promise for enhancing AI safety and interpretability, with OpenAI going so far as to claim that monitoring CoTs may allow us to “read the mind” of the model. If we can read off the “thoughts” of the model from their reasoning traces, then we may better understand how and why they produce specific behaviors, detect evidence of logical flaws, malicious intent, or bias, and take appropriate countermeasures. Yet, recent research has shown that that these CoTs may not be faithful explanations of the underlying computations that LLMs use to produce their outputs. A growing number of empirical studies in computer science, for instance, have shown that reasoning models may sometimes produce performative CoTs, where probing internal activations reveals that the model appears to converge to its final answer almost immediately, but it continues to generate tokens with the mere veneer of step-by-step reasoning. Some have likened this phenomenon to post-hoc rationalization, since the CoTs in such cases appear to be epiphenomenal, making little to no difference to the model’s final output. In this paper, I argue that such rationalizations can still be informative about the underlying generative model that is causally responsible for the model’s behavior. Drawing on Cushman’s (2020) account of rational rationalization, I suggest that performative CoTs may be extracting implicit information from the influence of similarity-based retrieval operations on behavior. These performative CoTs are adaptive precisely because the implicit information they extract and deposit into the context window is potentially useful in downstream inferences, leading to improved performance on multi-step reasoning problems. Understanding the adaptive functional role of performative CoTs as rational rationalizations thus contributes to explanations of the computational operations underlying LLMs’ behavior. Yet this explanation of performative CoTs leaves open the further problem of such rationalizations obfuscating problematic social biases that may, in fact, have played a causal role in the initial similarity-based retrieval operation. As such, mitigating such biases in LLMs will need to move beyond CoT monitoring to mechanistic interpretability methods, which are more difficult to deploy at scale with frontier models.    
+  </div>
+</div>
+
+<p>
+
+<!-- <p><strong>Representation Learning without Representationalism (forthcoming)</strong>
 
 <p>
   <button class="btn " type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
@@ -24,7 +40,7 @@ nav_order: 2
 </div>
 
 <p>
-
+ -->
 
 <strong>The Measure of a Manifold (under review)  </strong>
 
@@ -39,7 +55,7 @@ nav_order: 2
 </div>
 <p>
 
-<strong>Neural Scaling Laws and Science Without Theory (under review)</strong>
+<!-- <strong>Neural Scaling Laws and Science Without Theory (under review)</strong>
 
 <p>  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
  Abstract
@@ -50,7 +66,7 @@ nav_order: 2
     The purpose of this paper is to scrutinize the relationship between neural scaling laws and what Andrews (2025) has recently called the "theory-free ideal" in science. I argue that, in science, scaling up the size of a neural network model cannot replace principled model design. The assumption that scaling alone can achieve accurate results rests on a naive undertanding of data as raw, objective windows into reality. Instead, training complex neural network models requires significant pre-processing and conceptual work, challenging the idea that these data-driven methods can be theory-free. Moreover, scaling up depends on the availability of vast quantities of high-quality data at valumes far beyond what is currently possible. This scaling bottleneck necessitates informed design choices about model architectures. I illustrate this fact by examining how current successes in scientific deep learning already depend on extensive data augmentation practices. Drawing on Sabina Leonelli's (2016) relational conception of data, I argue that this case shows that data packaging strategies required to train sophisticated deep learning models depend on a significant degree of judgement to make available data ready for consumption by the model. The judgement involved at this stage further dispels any notion of "raw" data as an epistemically privileged given, an idea that in turn feeds into popular narrtives concerning data-driven science's alleged theory-free turn.
   </div>
 </div>
-<p>
+<p> -->
 
 
 <strong>Deep Learning as Method-Learning (w/ Oscar Westeblad) (in preparation)</strong>
