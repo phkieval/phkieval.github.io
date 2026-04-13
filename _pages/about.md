@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_cicular: true # crops the image to make it circular
-  address: >
-    <p>Free School Lane</p>
-    <p>Cambridge, CB2 3RH,</p>
-    <p>United Kingdom</p>
+  address: 
+    # <p>306 Griffin-Floyd Hall</p>
+    # <p>University of Florida</p>
+    # <p>Gainesville, FL </p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
