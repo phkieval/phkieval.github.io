@@ -69,7 +69,7 @@ nav_order: 2
 <p> -->
 
 
-<strong>Deep Learning as Method-Learning (w/ Oscar Westeblad) (in preparation)</strong>
+<strong>Deep Learning as Method-Learning (w/ Oscar Westeblad) (under review)</strong>
 
 <p>  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
  Abstract
@@ -84,7 +84,7 @@ of AlphaFold2, highlighting the interplay between background knowledge of a prob
 <p>
 
 
-<strong>Artificial Empathy, Social Affordances, and Moral Development (w/ Cameron Buckner) (in preparation)</strong>
+<strong>Artificial Empathy, Social Affordances, and Moral Development (w/ Cameron Buckner) (under review)</strong>
 
 <p>  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
  Abstract
