@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in Philosophy at the [Universisty of Guelph](https://philsci-archive.pitt.edu/id/eprint/30072). 
+I am an Assistant Professor in the [Department of Philosophy](https://philsci-archive.pitt.edu/id/eprint/30072) at the Universisty of Guelph. 
 
 
 I primarily work on the philosophy of artificial intelligence, especially applications of AI in science. I am also interested in what artificial neural networks can teach us about the architecture of the mind. While my research is grounded in the philosophy of science and cognitive science, I also have interests in social-political philosophy, value theory, and the history of philosophy, especially where these areas intersect with aspects of machine learning.
