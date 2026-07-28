@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href = "">Philosopher of AI.</a> University of Florida.
+subtitle: <a href = "">Philosopher of AI.</a> University of Guelph.
 
 profile:
   align: right
