@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-[Research Statement](http://phkieval.com/assets/pdf/Research_Statement.pdf)
+<!--[Research Statement](http://phkieval.com/assets/pdf/Research_Statement.pdf) -->
 
 <p><strong>Rationalization in Large Reasoning Models</strong>
 
