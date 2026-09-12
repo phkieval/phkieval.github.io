@@ -20,7 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Professor in the [Department of Philosophy](https://www.uoguelph.ca/arts/philosophy) at the Universisty of Guelph. 
 
-
 I primarily work on the philosophy of artificial intelligence. Much of my current research concerns the ethical and epistemological consequences of the increasingly widespread application of AI in science. I am also interested in what artificial neural networks can teach us about the architecture of the mind. While my research is grounded in the philosophy of science and cognitive science, I have additional interests in social-political philosophy, value theory, and the history of philosophy, especially where these areas intersect with aspects of machine learning.
 
 Before coming to Guelph, I was a Postdoctoral Associate in the Philosophy and Ethics of Artificial Intelligence in the [Department of Philosophy](https://phil.ufl.edu/) at the University of Florida. I did my PhD in the [Department of History and Philosophy of Science](https://www.hps.cam.ac.uk) at the University of Cambridge where I was a [Gates Cambridge Scholar](https://www.gatescambridge.org/).
