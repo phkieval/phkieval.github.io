@@ -7,7 +7,7 @@ subtitle: <a href = "">Philosopher of AI.</a> University of Guelph.
 profile:
   align: right
   image: prof_pic.jpg
-  image_cicular: true # crops the image to make it circular
+  image_cicular: false # crops the image to make it circular
   address: 
     # <p>306 Griffin-Floyd Hall</p>
     # <p>University of Florida</p>
