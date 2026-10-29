@@ -52,7 +52,7 @@ nav_order: 2
 <p> -->
 
 
-<strong>Deep Learning as Method-Learning (w/ Oscar Westeblad) (under review)</strong>
+<strong>Deep Learning as Method-Learning (w/ Oscar Westeblad) (under review) </strong>
 
 <p>  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
  Abstract
@@ -80,19 +80,6 @@ Private firms are flooding the market with conversational AI agents based on lar
 </div>
 <p>
 
-
-<strong>Formal Anlogies and Model Transfer in Scientific Deep Learning (under review)</strong>
-
-<p>  <button class="btn " type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
- Abstract
-  </button>
-</p>
-<div class="collapse" id="collapse7">
-  <div class="card card-body">
-In this paper, I examine the trans-disciplinary successes of deep learning, and I argue that attention to how deep learning architectures travel between fields reveals a distinctive form of interdisciplinary model transfer. Model transfer refers to the practice of applying a model that originates in one scientific domain to do novel epistemic work in a different domain.  Many historical cases of such cross-pollination have brought philosophical interest to the role of ``templates'' in model-building. A model template refers to a mathematical structure or computational method whose accompanying conceptual resources can be used to illuminate observed patterns in different kinds of systems \citep{Knuuttila2016}. Analogies between patterns observed in different kinds of systems warrant adopting the same model templates in different scientific domains. I argue that when it comes to deep learning, purely formal analogies mediate such model transfers. These analogies hold between qualitative patterns that modellers expect to find in the structure of very different kinds of data given their background knowledge of a scientific problem. I argue that the formal analogies that motivate deep learning model transfers target structural features of the data themselves. Understanding how these formal analogies contrast with existing philosophical accounts of analogies in science thus requires examining how modellers work with conceptualisations of generic patterns or signatures associated with specific machine-readable data structures. 
-  </div>
-</div>
-<p>
 
 
 <strong>Modeling Cognition with Goal-Directed Neural Networks (in preparation)</strong>
